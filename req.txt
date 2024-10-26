@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python-headless
+deepface
+librosa
+scikit-learn
+tensorflow
